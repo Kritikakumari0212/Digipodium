@@ -1,14 +1,15 @@
 from turtle import *
 
 speed('slowest')
-#square
+
 fd(120)
-lt(90)
+lt(72)
 fd(120)
-lt(90)
+lt(72)
 fd(120)
-lt(90)
+lt(72)
 fd(120)
-lt(90)
-hideturtle()
+lt(72)
+fd(120)
+lt(72)
 mainloop()
