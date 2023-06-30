@@ -1,10 +1,9 @@
 from turtle import *
 speed('fastest')
-pencolor('blue')
+pencolor('green')
 pensize(1)
 for i in range(100):
     fd(100-i)
-    rt(60)
-    circle(100 ,270)
-    dot(10,'red')
+    rt(30)
+    circle(120 ,270)
 mainloop()
